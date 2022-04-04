@@ -29,7 +29,7 @@ public class DecompressRunLengthEncodedList {
         return res;
     }
 
-    public static int[] decompressRLElistOptimized(int[] nums) {
+    public static int[] decompressRLElist2(int[] nums) {
         int size = 0;
         for (int i = 0; i < nums.length; i += 2) {
             size += nums[i];
