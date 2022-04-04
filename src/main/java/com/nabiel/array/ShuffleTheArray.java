@@ -1,4 +1,4 @@
-// link: https://leetcode.com/problems/shuffle-the-array/
+// problem: https://leetcode.com/problems/shuffle-the-array/
 package com.nabiel.array;
 
 import java.util.Arrays;
