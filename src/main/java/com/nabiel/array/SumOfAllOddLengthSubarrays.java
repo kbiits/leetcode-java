@@ -1,3 +1,5 @@
+// resource: https://leetcode.com/problems/sum-of-all-odd-length-subarrays
+
 package com.nabiel.array;
 
 public class SumOfAllOddLengthSubarrays {
